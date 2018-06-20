@@ -1,0 +1,8 @@
+.playlist-container {
+    display:flex;
+    flex-direction: column;
+}
+
+.playlist-single span {
+    display: block;
+}
